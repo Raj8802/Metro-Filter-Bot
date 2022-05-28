@@ -15,7 +15,7 @@ class script(object):
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
 <b>DEVS:</b>
-- <a href=https://t.me/MetroHDmoviesTeamEvamaria>Team Metro</a>"""
+- <a href=https://t.me/MetroHDmovies>Team Metro</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
